@@ -1,6 +1,7 @@
 ## Activity List
 
 - [Tribute](https://github.com/morpheus17/AvionMain/blob/main/Activities/TributeActivity/index.html).
+- [Tribute local](/TributeActivity/index.html).
 
 ### Markdown
 
